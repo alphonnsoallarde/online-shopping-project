@@ -1,0 +1,15 @@
+current directory: /var/www/html/RailsProjects/jego-mobile/jego-api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/martinjego/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20170720-14422-9cguyg.rb extconf.rb
+creating Makefile
+
+current directory: /var/www/html/RailsProjects/jego-mobile/jego-api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /var/www/html/RailsProjects/jego-mobile/jego-api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /var/www/html/RailsProjects/jego-mobile/jego-api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20170720-14422-inbwia
